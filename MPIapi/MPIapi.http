@@ -1,0 +1,6 @@
+@MPIapi_HostAddress = http://localhost:5023
+
+GET {{MPIapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
